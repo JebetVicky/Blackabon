@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blackabon
+- 👋 Hi, I’m @JebetVicky
 - 👀 I’m interested in data engineering and gis
 - 🌱 I’m currently learning different libraries
 - 💞️ I’m looking to collaborate on gan
